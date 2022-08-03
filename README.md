@@ -1,5 +1,5 @@
 # blog
-A basic layout for a blog.
+A basic layout for a blog using only html and css. Follwed instructions in YouTube video, see below.
 
 Sources:
 
